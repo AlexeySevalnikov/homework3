@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSort" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-02-23T17:12:09" hostname="NOTEBOOK-B7KXPV" time="0.041">
+  <properties/>
+  <testcase name="oneTest()" classname="testSort" time="0.031"/>
+  <testcase name="equalsTest()" classname="testSort" time="0.001"/>
+  <testcase name="simpleOddTest()" classname="testSort" time="0.001"/>
+  <testcase name="zeroTest()" classname="testSort" time="0.001"/>
+  <testcase name="descTest()" classname="testSort" time="0.001"/>
+  <testcase name="simpleEvenTest()" classname="testSort" time="0.0"/>
+  <testcase name="trueTest()" classname="testSort" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
